@@ -1,0 +1,9 @@
+{
+  "name": "@yukaii/debank-types",
+  "version": "1.0.0",
+  "description": "TypeScript Model definition for Debank OpenAPI",
+  "types": "./index.d.ts",
+  "keywords": [],
+  "author": "Yukai Huang",
+  "license": "MIT"
+}
