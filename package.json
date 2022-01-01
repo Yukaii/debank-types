@@ -1,7 +1,7 @@
 {
   "name": "@yukaii/debank-types",
-  "version": "1.0.0",
-  "description": "TypeScript Model definition for Debank OpenAPI",
+  "version": "1.0.1",
+  "description": "TypeScript Model definition for DeBank OpenAPI",
   "types": "./index.d.ts",
   "keywords": [],
   "author": "Yukai Huang",

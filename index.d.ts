@@ -70,7 +70,8 @@ export declare type PortfolioItem = {
   name: string
   detail_types: string[]
   detail: {
-    supply_token_list: Token[]
+    supply_token_list?: Token[],
+    reward_token_list?: Token[]
   }
   proxy_detail: {}
 }
