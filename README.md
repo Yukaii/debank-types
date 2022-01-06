@@ -1,4 +1,4 @@
-# debank-types - TypeScript definitions for DebBank OpenAPI
+# debank-types - TypeScript definitions for DeBank OpenAPI
 
 Derived from [DeBank OpenAPI](https://openapi.debank.com/docs).
 
